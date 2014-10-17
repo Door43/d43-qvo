@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[qvo:home|Door43 (qvo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-qvo|d43-qvo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-qvo/archive/master.zip|d43-qvo.zip]]
+
+**Recent Changes**
+{{changes>ns = qvo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/qvo|Ethnologue data]]
+
